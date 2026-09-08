@@ -30,9 +30,14 @@ var nik = struct {
 }
 ```
 
-<!--
 ## Certificates & Achievements
 
-Add certificates here when available: title, issuer, date, and image link.
--->
+<details>
+<summary>View my diplomas and certificates</summary>
+
+<a href="./diploma-01.jpg">
+  <img src="./diploma-01.jpg" width="300" alt="Diploma" />
+</a>
+
+</details>
 
