@@ -32,7 +32,7 @@ var nik = struct {
 
 ## Certificates & Achievements
 
-<details>
+<details open>
 <summary>View my diplomas and certificates</summary>
 
 <a href="./diploma-01.jpg">
