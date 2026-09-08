@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="90" viewBox="0 0 800 90" role="img" aria-label="Hi, I'm Nik — welcome to my backend journey">
+<title>Hi, I'm Nik — welcome to my backend journey</title>
+<defs><clipPath id="reveal"><rect width="800" height="90"><animate attributeName="width" values="0;800;800" keyTimes="0;0.45;1" dur="8s" repeatCount="indefinite"/></rect></clipPath></defs>
+<g clip-path="url(#reveal)" fill="#ba879c" text-anchor="middle" font-family="Verdana, sans-serif"><text x="400" y="39" font-size="30" font-weight="bold">Hi, I'm Nik</text><text x="400" y="69" font-size="16">Welcome to my backend journey.</text></g>
+</svg>
