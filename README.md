@@ -1,16 +1,17 @@
-## Hi there 👋
+![Rainy Japanese street with a white coupe and cherry blossoms — Insomnia](./banner.png)
 
-<!--
-**InsomniaItsMe/InsomniaItsMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nik
 
-Here are some ideas to get you started:
+### Building my path into Go backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Information Systems and Programming student with experience creating desktop applications in C# and Windows Forms. My next focus is Go and backend development.
+
+## What's next
+
+- Learn Go fundamentals
+- Build a backend service with a REST API and PostgreSQL
+- Explore testing, Docker, and deployment
+
+## Get in touch
+
+[nikitabaoy@gmail.com](mailto:nikitabaoy@gmail.com) · [Telegram — @InsomniaItsMe](https://t.me/InsomniaItsMe)
