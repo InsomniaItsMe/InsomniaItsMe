@@ -10,7 +10,7 @@
 
 ## About me
 
-I'm Nikita — Nik for short — an Information Systems and Programming student with experience creating desktop applications in **C# and Windows Forms**.
+I'm Nikita - Nik for short - an Information Systems and Programming student with experience creating desktop applications in **C# and Windows Forms**.
 
 I'm interested in **Go and backend development**.
 
