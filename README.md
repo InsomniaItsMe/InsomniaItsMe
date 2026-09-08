@@ -18,8 +18,21 @@ I'm interested in **Go and backend development**.
   <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=ffffff" alt="Go" /></a>
 </p>
 
+```go
+var nik = struct {
+    Name       string
+    Background string
+    Interests  string
+}{
+    Name:       "Nikita / InsomniaItsMe",
+    Background: "C# · Windows Forms",
+    Interests:  "Go · Backend development",
+}
+```
+
 <!--
 ## Certificates & Achievements
 
 Add certificates here when available: title, issuer, date, and image link.
 -->
+
