@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Insomnia — a white coupe beneath sakura on a rainy Japanese street" />
+  <img src="./banner.gif" width="100%" alt="Insomnia — a white coupe beneath sakura on a rainy Japanese street" />
   <img src="./hello.svg" width="800" alt="Hi, I'm Nik. Welcome to my backend journey." />
 </p>
 
